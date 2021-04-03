@@ -10,7 +10,7 @@
 
         public override LaptopBuilder BuildScreen()
         {
-            Screen = "FullHD";
+            Screen = "FullHD" ;
             return this;
         }
 
